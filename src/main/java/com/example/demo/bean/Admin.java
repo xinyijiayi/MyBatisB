@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Admin {
 
+	private String id3;
 	private String id2;
   private String id;
   private String username;
